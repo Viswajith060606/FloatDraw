@@ -177,9 +177,6 @@ Physical two-device testing is recommended for validating real-time collaboratio
 - [x] Connection-aware drawing controls
 - [ ] Complete physical-device regression testing
 
-## 📄 License
-
-Add an appropriate open-source license before distributing the project.
 
 ---
 
